@@ -1,0 +1,24 @@
+{
+  "sentences": [
+    { "id": 1, "category": "General", "text": "Bright sun warmed the sleepy cat." },
+    { "id": 2, "category": "General", "text": "Ocean waves crashed on the beach." },
+    { "id": 3, "category": "General", "text": "Fresh coffee aroma filled the kitchen." },
+    { "id": 4, "category": "General", "text": "A gentle breeze rustled the leaves." },
+    { "id": 5, "category": "General", "text": "Stars twinkled in the clear night sky." },
+    { "id": 6, "category": "General", "text": "Colorful flowers bloomed in the garden." },
+
+    { "id": 7, "category": "Movies", "text": "The hero bravely defeated the villain." },
+    { "id": 8, "category": "Movies", "text": "A suspenseful plot twist shocked viewers." },
+    { "id": 9, "category": "Movies", "text": "Dramatic music heightened the tension." },
+    { "id": 10, "category": "Movies", "text": "Their epic love story unfolded onscreen." },
+    { "id": 11, "category": "Movies", "text": "Stunning visuals captivated the audience." },
+    { "id": 12, "category": "Movies", "text": "The film's ending left them speechless." },
+
+    { "id": 13, "category": "Proverbs", "text": "Look before you leap into action." },
+    { "id": 14, "category": "Proverbs", "text": "Haste makes waste, slow and steady wins." },
+    { "id": 15, "category": "Proverbs", "text": "Practice makes perfect skills over time." },
+    { "id": 16, "category": "Proverbs", "text": "Two wrongs don't make a right action." },
+    { "id": 17, "category": "Proverbs", "text": "Honesty is always the best policy." },
+    { "id": 18, "category": "Proverbs", "text": "The early bird gets the worm first." }
+  ]
+}

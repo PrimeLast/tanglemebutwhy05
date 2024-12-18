@@ -1,0 +1,40 @@
+{
+    "postLiveSpan": 86400000, 
+    "feedbackDuration": 10, 
+    "gameDuration": 120,
+    "theme": {
+      "primary": "#000000",
+      "secondary": "#07495F",
+      "tertiary": "#0E92BE",
+      "weak": "#B2B2B2",
+      "background": "#F5F5F5",
+      "highlight": "#56CCF2",
+      "shadow": "rgba(0,0,0,0.3)",
+      "orangered": "#FF4500"
+    },
+    "scoring": {
+      "correctSentencePoints": 10,
+      "partialCorrectPoints": 5,
+      "userSubmittedBonus": 3
+    },
+    "dailyChallenge": {
+      "enabled": true,
+      "timeInterval": 86400000
+    },
+    "sentenceSettings": {
+      "defaultCategory": "General",
+      "maxWords": 12,
+      "shuffleAlgorithm": "Fisher-Yates"
+    },
+    "userRewards": {
+      "authorRewardForSubmit": 10,
+      "authorRewardForCorrectGuess": 2,
+      "guesserRewardForSolve": 5,
+      "guesserRewardForFirstSolve": 10,
+      "userRewardForParticipation": 2
+    },
+    "pinnedPost": {
+      "title": "Let's play tanglemebutwhy05!"
+    }
+  }
+  
